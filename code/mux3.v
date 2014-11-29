@@ -1,4 +1,4 @@
-module mux3(
+ module mux3(
 	data1_i,//RT
 	data2_i,//RD
 	IsRegDst_i,
