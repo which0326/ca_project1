@@ -8,7 +8,7 @@ module mux3(
 input [4:0]		data1_i;
 input [4:0]		data2_i;
 input			IsRegDst_i;
-output reg		data_o;
+output reg	[4:0]	data_o;
 
 always@(*)begin
 	if(IsRegDst_i)

@@ -8,7 +8,7 @@ module mux4(
 input	[31:0]		data1_i;			
 input	[31:0]		data2_i;
 input				IsALUSrc_i;
-output reg			data_o;		
+output reg	[31:0]	data_o;		
 
 always@(*)begin
 	if(IsALUSrc_i)
