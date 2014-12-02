@@ -116,31 +116,31 @@ PC PC(
 
 Registers Registers
 (
-    clk_i(clk_i),
-    RSaddr_i(),
-    RTaddr_i(),
-    RDaddr_i(), 
-    RDdata_i(),
-    RegWrite_i(), 
-    RSdata_o(), 
-    RTdata_o() 
+    .clk_i(clk_i),
+    .RSaddr_i(),
+    .RTaddr_i(),
+    .RDaddr_i(), 
+    .RDdata_i(),
+    .RegWrite_i(), 
+    .RSdata_o(), 
+    .RTdata_o() 
 );
 
 Signed_Extend Signed_Extend(
-    data_i(),
-    data_o()
+    .data_i(),
+    .data_o()
 );
 
 Adder ADD(
-	data1_in(),
-	data2_in(),
-	data_o()
+	.data1_in(),
+	.data2_in(),
+	.data_o()
 );
 
 Adder add_pc(
-	data1_in(),
-	data2_in(),
-	data_o()
+	.data1_in(),
+	.data2_in(),
+	.data_o()
 );
 
 Data_memory Data_memory(
@@ -153,7 +153,7 @@ Data_memory Data_memory(
 );
 
 IF_ID IF_ID(
-	.clk()(),
+	.clk(),
 	.reset(),
 	.hazard_in(),
 	.flush(),
@@ -220,4 +220,4 @@ MEM_WB MEM_WB(
 	.ALU_out(),
 	.instruction_mux_out()
 );
-
+endmodule
