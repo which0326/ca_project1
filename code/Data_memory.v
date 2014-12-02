@@ -22,10 +22,10 @@ always @(posedge clk_i) begin
 	end
 	
 	if(IsMemRead)begin
-		data_o = data_i[addr_i],
-		data_o = data_i[addr_i+1],
-		data_o = data_i[addr_i+2],
-		data_o = data_i[addr_i+3]
+		data_o = data_i[addr_i];
+		data_o = data_i[addr_i+1];
+		data_o = data_i[addr_i+2];
+		data_o = data_i[addr_i+3];
 	end
 end
 

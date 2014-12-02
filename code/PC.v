@@ -17,11 +17,13 @@ output  reg [31:0]  pc_o;
 // Wires & Registers
 
 always@(posedge clk_i) begin
-    if(start_i && ~IsHazzard_i)
-		pc_o = pc_i;
-	else if(start_i && IsHazzard_i)
-		pc_o = pc_i-4;
-	else
+  if(start_i)begin
+    if(IsHazzard_i)
+      pc_o = pc_i-4;
+    else
+      pc_o = pc_i;
+  end
+  else
 		pc_o = 32'b0;
 end
 

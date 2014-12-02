@@ -1,0 +1,517 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\14.0
+vAdder
+Z1 !s100 M>kFI8EPbnLUVhIomK7=a3
+Z2 ISg?_HVP>Ll8ZaoYPXFR?F2
+Z3 VQeiMRXfdPT=Ih;Gk<z^AW0
+Z4 dC:\Users\202pc\Documents\ca_project1-master
+Z5 w1417518253
+Z6 8C:/Users/202pc/Documents/ca_project1-master/code/Adder.v
+Z7 FC:/Users/202pc/Documents/ca_project1-master/code/Adder.v
+L0 1
+Z8 OV;L;10.1e;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/Adder.v|
+Z10 o-work work -O0
+Z11 n@adder
+Z12 !s108 1417538642.833000
+Z13 !s107 C:/Users/202pc/Documents/ca_project1-master/code/Adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z14 !s100 zXnJ>6:_mFW``3KmZhF@i1
+Z15 I?N<dD^2h=ChCA81[YO=822
+Z16 V6A]d>IC:GnKakGX:iee>W0
+R4
+Z17 w1417524168
+Z18 8C:/Users/202pc/Documents/ca_project1-master/code/ALU.v
+Z19 FC:/Users/202pc/Documents/ca_project1-master/code/ALU.v
+L0 3
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/ALU.v|
+R10
+Z21 n@a@l@u
+Z22 !s108 1417538646.480000
+Z23 !s107 C:/Users/202pc/Documents/ca_project1-master/code/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_Control
+Z24 !s100 dABRI_5=H_MfL<[M[OBW21
+Z25 I2>5=?kWN;@Y1iR^OHfP?K2
+Z26 VE4Laoa^dgO9Adc]oS317L3
+R4
+Z27 w1417524329
+Z28 8C:/Users/202pc/Documents/ca_project1-master/code/ALU_Control.v
+Z29 FC:/Users/202pc/Documents/ca_project1-master/code/ALU_Control.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/ALU_Control.v|
+R10
+Z31 n@a@l@u_@control
+Z32 !s108 1417538646.618000
+Z33 !s107 C:/Users/202pc/Documents/ca_project1-master/code/ALU_Control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControl
+Z34 !s100 QQ9X[<?f6Y?_JLWdC9WQL3
+Z35 IzJil3CZ?f]cAGlP[4R2NL2
+Z36 V7:JQf0gP]MiR:0RgfFgo22
+R4
+Z37 w1417530259
+Z38 8C:/Users/202pc/Documents/ca_project1-master/code/Control.v
+Z39 FC:/Users/202pc/Documents/ca_project1-master/code/Control.v
+L0 1
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/Control.v|
+R10
+Z41 n@control
+Z42 !s108 1417538642.947000
+Z43 !s107 C:/Users/202pc/Documents/ca_project1-master/code/Control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCPU
+Z44 IkO9?D2A6[Q9>U[EnnUh]70
+Z45 VWChaB354:o150041Jm0eJ1
+R4
+Z46 w1417538624
+Z47 8C:\Users\202pc\Documents\ca_project1-master\code\CPU.v
+Z48 FC:\Users\202pc\Documents\ca_project1-master\code\CPU.v
+L0 1
+R8
+r1
+31
+Z49 !s90 -reportprogress|300|-work|work|C:\Users\202pc\Documents\ca_project1-master\code\CPU.v|
+R10
+Z50 n@c@p@u
+Z51 !s100 <OXUoD6k5Uz5D7U]O9WgN2
+Z52 !s108 1417538643.086000
+Z53 !s107 C:\Users\202pc\Documents\ca_project1-master\code\CPU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vData_memory
+Z54 !s100 eGcQ>FhXk=4;bH[;F2?M=3
+Z55 I0;05XRol1;OY<YJSdXbdU3
+Z56 Vdnd>]XC>E98g4iZMcn]6B3
+R4
+Z57 w1417519062
+Z58 8C:\Users\202pc\Documents\ca_project1-master\code\Data_memory.v
+Z59 FC:\Users\202pc\Documents\ca_project1-master\code\Data_memory.v
+L0 1
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|C:\Users\202pc\Documents\ca_project1-master\code\Data_memory.v|
+R10
+Z61 n@data_memory
+Z62 !s108 1417538643.236000
+Z63 !s107 C:\Users\202pc\Documents\ca_project1-master\code\Data_memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEq
+Z64 !s100 @^_8jDb0fZnY@zhzdcMBb0
+Z65 ImN`gUbF@gUE8AL5WXA@5<2
+Z66 VzbQz8S`;HJlPDE=EiN6gH3
+R4
+Z67 w1417525299
+Z68 8C:/Users/202pc/Documents/ca_project1-master/code/Eq.v
+Z69 FC:/Users/202pc/Documents/ca_project1-master/code/Eq.v
+L0 1
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/Eq.v|
+R10
+n@eq
+Z71 !s108 1417538643.387000
+Z72 !s107 C:/Users/202pc/Documents/ca_project1-master/code/Eq.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEX_MEM
+Z73 !s100 D8Fz7TNn0Q7V8ajeP8Wgn0
+Z74 I2>h38^4Olz;iU:B[D6]262
+Z75 VaEk3UXnM>T6mEjlF=kLea3
+R4
+Z76 w1417533233
+Z77 8C:\Users\202pc\Documents\ca_project1-master\code\EX_MEM.v
+Z78 FC:\Users\202pc\Documents\ca_project1-master\code\EX_MEM.v
+L0 1
+R8
+r1
+31
+Z79 !s90 -reportprogress|300|-work|work|C:\Users\202pc\Documents\ca_project1-master\code\EX_MEM.v|
+R10
+Z80 n@e@x_@m@e@m
+Z81 !s108 1417538643.519000
+Z82 !s107 C:\Users\202pc\Documents\ca_project1-master\code\EX_MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFW
+Z83 !s100 ?VIgNQPblJzLzogiRTzoU0
+Z84 I_1VOoofn6j[Z3INDH@3OQ3
+Z85 V<1PE1GCA^bi?f`?W16U1M2
+R4
+R5
+Z86 8C:/Users/202pc/Documents/ca_project1-master/code/FW.v
+Z87 FC:/Users/202pc/Documents/ca_project1-master/code/FW.v
+L0 1
+R8
+r1
+31
+Z88 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/FW.v|
+R10
+n@f@w
+Z89 !s108 1417538643.636000
+Z90 !s107 C:/Users/202pc/Documents/ca_project1-master/code/FW.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHD
+Z91 !s100 lF3do8C1B^HXfW5`:a;o[0
+Z92 I8<l@6;2G_R8TnLal]W]mo2
+Z93 VEa6PSfF01m@9R2gV<4IzK3
+R4
+R5
+Z94 8C:\Users\202pc\Documents\ca_project1-master\code\HD.v
+Z95 FC:\Users\202pc\Documents\ca_project1-master\code\HD.v
+L0 1
+R8
+r1
+31
+Z96 !s90 -reportprogress|300|-work|work|C:\Users\202pc\Documents\ca_project1-master\code\HD.v|
+R10
+n@h@d
+Z97 !s108 1417538643.780000
+Z98 !s107 C:\Users\202pc\Documents\ca_project1-master\code\HD.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vID_EX
+Z99 !s100 5naTlQM_hX]Z6CTVSk0lR2
+Z100 I9b5nk;XMZcebcQefmZBO83
+Z101 VmN]9HbbfcNnH6^PgW<4Db3
+R4
+Z102 w1417530422
+Z103 8C:/Users/202pc/Documents/ca_project1-master/code/ID_EX.v
+Z104 FC:/Users/202pc/Documents/ca_project1-master/code/ID_EX.v
+L0 1
+R8
+r1
+31
+Z105 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/ID_EX.v|
+R10
+Z106 n@i@d_@e@x
+Z107 !s108 1417538643.919000
+Z108 !s107 C:/Users/202pc/Documents/ca_project1-master/code/ID_EX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIF_ID
+Z109 I>Oz>UPkWV0_RHgHU8`3B@1
+Z110 Va`CXbWKzi:lVF[A4?XZBo1
+R4
+Z111 w1417538958
+Z112 8C:\Users\202pc\Documents\ca_project1-master\code\IF_ID.v
+Z113 FC:\Users\202pc\Documents\ca_project1-master\code\IF_ID.v
+L0 1
+R8
+r1
+31
+Z114 !s90 -reportprogress|300|-work|work|C:\Users\202pc\Documents\ca_project1-master\code\IF_ID.v|
+R10
+Z115 n@i@f_@i@d
+Z116 !s100 [^UAOGRWZAaP8UQ?NPXod2
+Z117 !s108 1417538965.957000
+Z118 !s107 C:\Users\202pc\Documents\ca_project1-master\code\IF_ID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vInstruction_Memory
+Z119 !s100 PV2j=81SkQ<J7JYC5KT5o1
+Z120 I1n6_4SEFa>m9P_]ab7ZDA1
+Z121 VN<ZzmNNSM_FS@LceORKC20
+R4
+Z122 w1417527612
+Z123 8C:/Users/202pc/Documents/ca_project1-master/code/Instruction_Memory.v
+Z124 FC:/Users/202pc/Documents/ca_project1-master/code/Instruction_Memory.v
+L0 1
+R8
+r1
+31
+Z125 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/Instruction_Memory.v|
+R10
+Z126 n@instruction_@memory
+Z127 !s108 1417538644.195000
+Z128 !s107 C:/Users/202pc/Documents/ca_project1-master/code/Instruction_Memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM_WB
+Z129 !s100 Emj4GB[XlGY7e>a36lYj13
+Z130 IDcQd=Ch9=2=AEL2RR0CA:0
+Z131 VIo:fMBkV11ffbcXU[ZgSS1
+R4
+Z132 w1417531328
+Z133 8C:/Users/202pc/Documents/ca_project1-master/code/MEM_WB.v
+Z134 FC:/Users/202pc/Documents/ca_project1-master/code/MEM_WB.v
+L0 1
+R8
+r1
+31
+Z135 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/MEM_WB.v|
+R10
+Z136 n@m@e@m_@w@b
+Z137 !s108 1417538644.327000
+Z138 !s107 C:/Users/202pc/Documents/ca_project1-master/code/MEM_WB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux1
+Z139 !s100 bT1WNJZkBn38M>Pkz7jYl1
+Z140 I@`YV=MVRULj^Fz5=@N0<P2
+Z141 Vn5chYi`h806:42D`4<>[J3
+R4
+R5
+Z142 8C:/Users/202pc/Documents/ca_project1-master/code/mux1.v
+Z143 FC:/Users/202pc/Documents/ca_project1-master/code/mux1.v
+L0 1
+R8
+r1
+31
+Z144 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/mux1.v|
+R10
+Z145 !s108 1417538644.468000
+Z146 !s107 C:/Users/202pc/Documents/ca_project1-master/code/mux1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2
+Z147 !s100 722L093D]VIa@IbHXc:iY3
+Z148 I1d2kcaFIDjSU0C2IYS:j=3
+Z149 Vk=JALaS`TIjf[zM`JUlKW1
+R4
+R5
+Z150 8C:/Users/202pc/Documents/ca_project1-master/code/mux2.v
+Z151 FC:/Users/202pc/Documents/ca_project1-master/code/mux2.v
+L0 1
+R8
+r1
+31
+Z152 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/mux2.v|
+R10
+Z153 !s108 1417538644.610000
+Z154 !s107 C:/Users/202pc/Documents/ca_project1-master/code/mux2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux3
+Z155 !s100 ACO9G>>9olRkcbNG<f<U]0
+Z156 I6DCO9DAEZIiXO7EFe=M260
+Z157 VjdHFEh2fXfm?gZ[ce:0lV0
+R4
+R5
+Z158 8C:/Users/202pc/Documents/ca_project1-master/code/mux3.v
+Z159 FC:/Users/202pc/Documents/ca_project1-master/code/mux3.v
+L0 1
+R8
+r1
+31
+Z160 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/mux3.v|
+R10
+Z161 !s108 1417538644.813000
+Z162 !s107 C:/Users/202pc/Documents/ca_project1-master/code/mux3.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4
+Z163 !s100 C_h0[FDPYeRWzfRhfINR<0
+Z164 I:=8PcGN:]TC8icI_;[nci1
+Z165 V?7Y<N57Ck4Cb=K0z;AEH`1
+R4
+R5
+Z166 8C:/Users/202pc/Documents/ca_project1-master/code/mux4.v
+Z167 FC:/Users/202pc/Documents/ca_project1-master/code/mux4.v
+L0 1
+R8
+r1
+31
+Z168 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/mux4.v|
+R10
+Z169 !s108 1417538645.025000
+Z170 !s107 C:/Users/202pc/Documents/ca_project1-master/code/mux4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux5
+Z171 !s100 P7Cmb@Jmoj6jhEGMQU1<Q2
+Z172 IWKH@Zn6XI?Z6@c01b8O__2
+Z173 VKMZ^oWo@_IM]_9aD8R8mC2
+R4
+R5
+Z174 8C:/Users/202pc/Documents/ca_project1-master/code/mux5.v
+Z175 FC:/Users/202pc/Documents/ca_project1-master/code/mux5.v
+L0 1
+R8
+r1
+31
+Z176 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/mux5.v|
+R10
+Z177 !s108 1417538645.219000
+Z178 !s107 C:/Users/202pc/Documents/ca_project1-master/code/mux5.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux6
+Z179 !s100 ]ihMYQY4`ZCS;niFTP>o60
+Z180 IYcS:fE;34oz]KUM^mjPci2
+Z181 VioFhUO3k=YzflcN`0RS^g2
+R4
+R5
+Z182 8C:/Users/202pc/Documents/ca_project1-master/code/mux6.v
+Z183 FC:/Users/202pc/Documents/ca_project1-master/code/mux6.v
+L0 1
+R8
+r1
+31
+Z184 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/mux6.v|
+R10
+Z185 !s108 1417538645.353000
+Z186 !s107 C:/Users/202pc/Documents/ca_project1-master/code/mux6.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux7
+Z187 !s100 Ib>W`Sd??nRkVTOi:A3>_2
+Z188 IH[NDzzH;ZUCbUi@7WL4EE1
+Z189 VnTHeXUe9V:lCU9H?h[:AG2
+R4
+R5
+Z190 8C:/Users/202pc/Documents/ca_project1-master/code/mux7.v
+Z191 FC:/Users/202pc/Documents/ca_project1-master/code/mux7.v
+L0 1
+R8
+r1
+31
+Z192 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/mux7.v|
+R10
+Z193 !s108 1417538645.515000
+Z194 !s107 C:/Users/202pc/Documents/ca_project1-master/code/mux7.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux8
+Z195 !s100 8hC[mS_Z:_ka=LIfO@mfN0
+Z196 I>JX04[G`S=6HRFM:Eh0zl3
+Z197 V`7k26X?9Z18a]KcJ?K6kc3
+R4
+R5
+Z198 8C:/Users/202pc/Documents/ca_project1-master/code/mux8.v
+Z199 FC:/Users/202pc/Documents/ca_project1-master/code/mux8.v
+L0 1
+R8
+r1
+31
+Z200 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/mux8.v|
+R10
+Z201 !s108 1417538645.644000
+Z202 !s107 C:/Users/202pc/Documents/ca_project1-master/code/mux8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z203 !s100 `Ifi0EQCbcn^;JQB_Y4C30
+Z204 I1cX?jImW^3fTTN?>ROn>31
+Z205 V3O1d0dC0kLRXPGEWNz<;T1
+R4
+Z206 w1417532532
+Z207 8C:/Users/202pc/Documents/ca_project1-master/code/PC.v
+Z208 FC:/Users/202pc/Documents/ca_project1-master/code/PC.v
+L0 1
+R8
+r1
+31
+Z209 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/PC.v|
+R10
+n@p@c
+Z210 !s108 1417538645.802000
+Z211 !s107 C:/Users/202pc/Documents/ca_project1-master/code/PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegisters
+Z212 !s100 @K_cL@HNW^@WjkMizZ[Ia3
+Z213 Iog_BINg`k<SUW_XbYf8oc2
+Z214 V3TYm1U0R2EYmSNc4CjPlO0
+R4
+R5
+Z215 8C:\Users\202pc\Documents\ca_project1-master\code\Registers.v
+Z216 FC:\Users\202pc\Documents\ca_project1-master\code\Registers.v
+L0 1
+R8
+r1
+31
+Z217 !s90 -reportprogress|300|-work|work|C:\Users\202pc\Documents\ca_project1-master\code\Registers.v|
+R10
+Z218 n@registers
+Z219 !s108 1417538646.021000
+Z220 !s107 C:\Users\202pc\Documents\ca_project1-master\code\Registers.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSigned_Extend
+Z221 !s100 2Gc;jTI?g:XN;LUfVI9A82
+Z222 I]cKGW:]:Wbm_?Tkc3_<kd3
+Z223 VZnTdcGl[@coD=<mOT:U[43
+R4
+R5
+Z224 8C:/Users/202pc/Documents/ca_project1-master/code/Signed_Extend.v
+Z225 FC:/Users/202pc/Documents/ca_project1-master/code/Signed_Extend.v
+L0 1
+R8
+r1
+31
+Z226 !s90 -reportprogress|300|-work|work|C:/Users/202pc/Documents/ca_project1-master/code/Signed_Extend.v|
+R10
+Z227 n@signed_@extend
+Z228 !s108 1417538646.168000
+Z229 !s107 C:/Users/202pc/Documents/ca_project1-master/code/Signed_Extend.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBench
+!i10b 1
+!s100 K?9UB<LU;[c5Pa9jTXdnW0
+IJ6OO4HzVjG:GKi@4>_49n2
+Z230 VH;VS]59WmQ>4a<zRibM9Z0
+R4
+w1417539435
+Z231 8C:\Users\202pc\Documents\ca_project1-master\code\testbench.v
+Z232 FC:\Users\202pc\Documents\ca_project1-master\code\testbench.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1417539438.606000
+!s107 C:\Users\202pc\Documents\ca_project1-master\code\testbench.v|
+Z233 !s90 -reportprogress|300|-work|work|C:\Users\202pc\Documents\ca_project1-master\code\testbench.v|
+!s101 -O0
+R10
+Z234 n@test@bench

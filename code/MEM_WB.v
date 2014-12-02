@@ -18,12 +18,10 @@ module MEM_WB(input clk,
 	end
 	
 	always@(posedge clk)begin
-		if(reset == 0)begin
-			RegWrite <= WB_in[1];
-			MemtoReg <= WB_in[0];
+			RegWrite <= WB_in[0];
+			MemtoReg <= WB_in[1];
 			ReadData_out <= ReadData_in;
 			ALU_out <= ALU_in;
 			instruction_mux_out <= instruction_mux_in;
-		end
 	end
 endmodule

@@ -39,7 +39,6 @@ module ID_EX(input clk,
     end
 	
 	always@(posedge clk)begin
-		if(reset == 0)begin
 			WB_out <= WB_in;
 			M_out <= M_in;
 			ALUSrc_out <= EX_in[0];
@@ -52,6 +51,5 @@ module ID_EX(input clk,
 			Inst_20_to_16_out <= Inst_20_to_16_in; 
 			Inst_25_to_21_out <= Inst_25_to_21_in; 
 			Inst_5_to_0_out <= Inst_5_to_0_in;
-		end
 	end
 endmodule

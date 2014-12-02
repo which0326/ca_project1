@@ -39,7 +39,7 @@ always@(*) begin // R-type
 		Control_o[3] = 0;
 		Control_o[4] = 1;
 		Control_o[6:5] = 2'b00;
-		Control_o[7] = 1;
+		Control_o[7] = 0;
 	end
 	
 	if(Inst_i == 6'b101011)begin // sw
