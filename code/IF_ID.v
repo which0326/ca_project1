@@ -16,7 +16,7 @@ always@(posedge clk)begin
 	pc_plus4_out <= pc_plus4_in;
   if(flush)begin
   //  TODO: flush method
-    instruction_out <= 32'bz;
+    instruction_out <= 32'b0;
   end
 	else begin
 	  //  DEBUG: stall method
