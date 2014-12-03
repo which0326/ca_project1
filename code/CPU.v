@@ -24,7 +24,7 @@ Eq Eq(
 );
 
 FW FW(
-  .EX_MEM_RegWrite(EX_MEM.WB_out[1]),
+  .EX_MEM_RegWrite(EX_MEM.WB_out[0]),
   .MEM_WB_RegWrite(MEM_WB.RegWrite),
   .EX_MEM_RegisterRd(EX_MEM.instruction_mux_out),
   .MEM_WB_RegisterRd(MEM_WB.instruction_mux_out),
