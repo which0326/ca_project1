@@ -38,7 +38,7 @@ initial begin
     $readmemb("instruction.txt", CPU.IM.memory);
     
     // Open output file
-    outfile = $fopen("output1.txt") | 1;
+    outfile = $fopen("output.txt") | 1;
     
     // Set Input n into data memory at 0x00
     CPU.Data_memory.memory[0] = 8'h5;       // n = 5 for example
