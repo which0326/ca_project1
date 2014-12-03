@@ -1,7 +1,7 @@
 module EX_MEM(input clk,
               input reset,
               input [1:0] WB_in, 
-              input [2:0] M_in, 
+              input [1:0] M_in, 
               input [31:0] ALU_in, 
               input [4:0] instruction_mux_in, 
               input [31:0] RDdata2_in, 
@@ -21,13 +21,11 @@ module EX_MEM(input clk,
 	end
 	
 	always@(posedge clk)begin
-		if(reset == 0)begin
 			WB_out <= WB_in;
-			MemWrite <= M_in[0];
-			MemRead <= M_in[1];
+			MemWrite <= M_in[1];
+			MemRead <= M_in[0];
 			ALU_out <= ALU_in;
 			RDdata2_out <= RDdata2_in;
 			instruction_mux_out <= instruction_mux_in;
-		end
 	end
 endmodule
